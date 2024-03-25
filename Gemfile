@@ -34,6 +34,9 @@ gem 'webrick', '~> 1.7'
 # Mail gem
 gem 'mail', '>= 2.8.0.rc1'
 
+gem "image_processing", ">= 1.2"
+
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
